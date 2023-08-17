@@ -1,0 +1,57 @@
+.flag-img {
+    display: block;
+    width: 20%;
+    margin: 1.8em auto 1.2em auto;
+  }
+
+  .container {
+  width: 45%;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff
+  }
+  .search-input{
+    margin: auto;
+  }
+
+  li {
+    text-align: center;
+    margin-top: 15px;
+    list-style-type: none;
+    font-size: 20px;
+  }
+
+  h1 {
+    text-align: center;
+    color: #fff;
+  }
+  .input {
+    border: #d4d2d2 1px solid;
+    border-radius: 5px;
+    padding: 7px 14px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    color: #661717;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  .search {
+    background-color: #661717;
+    color: #dfbebe
+  }
+  .search:hover {
+    background-color: #852a2a;
+  }
+
+  .warn {
+color: #770b0b;
+text-align: center;
+  }
